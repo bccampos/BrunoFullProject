@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "einHaBqjX8o4Gy/xE7j+u/4TmwrhGcr9bTB6OlSW/zDDVmM1khTkFiaGuOCdr0rpAV1FA6M4S9tDrzQlw2YYTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\Documents\\GitHub\\BrunoFullProject\\bruno.Presentation\\bruno.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
