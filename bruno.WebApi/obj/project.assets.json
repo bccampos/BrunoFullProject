@@ -805,6 +805,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "FluentResults": "3.15.2",
+          "FluentValidation": "11.5.2",
           "FluentValidation.DependencyInjectionExtensions": "11.5.2",
           "MediatR": "12.0.1",
           "bruno.Contracts": "1.0.0",
